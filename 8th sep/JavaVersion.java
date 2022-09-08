@@ -10,7 +10,7 @@ class JavaVersion
   //calling main
   public static void main(String[] args)
    {
-    system.out.println("The current java version is :"+ system.getProperty("java.version"));  
+    System.out.println("The current java version is :"+ System.getProperty("java.version"));  
     
    }
    
